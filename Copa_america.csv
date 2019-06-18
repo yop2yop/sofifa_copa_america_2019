@@ -1,0 +1,294 @@
+,ID,Name,Age,Photo,Nationality,Flag,Overall,Potential,posicion,contrato,Value,Wage,Special
+0,205849,E. Andrada,27,https://cdn.sofifa.org/players/4/19/205849.png,Argentina,https://cdn.sofifa.org/flags/52.png,78,81,GK,2018 ~ 2022,€8.5M,€8.5M,1186
+1,231340,G. Montiel,21,https://cdn.sofifa.org/players/4/19/231340.png,Argentina,https://cdn.sofifa.org/flags/52.png,75,82,RB,2015 ~ 2021,€8M,€8M,1898
+2,193601,G. Pezzella,27,https://cdn.sofifa.org/players/4/19/193601.png,Argentina,https://cdn.sofifa.org/flags/52.png,80,82,RCB,2018 ~ 2022,€14.5M,€14.5M,1687
+3,183892,G. Mercado,31,https://cdn.sofifa.org/players/4/19/183892.png,Argentina,https://cdn.sofifa.org/flags/52.png,79,79,LCB,2016 ~ 2019,€8.5M,€8.5M,1987
+4,211256,N. Tagliafico,25,https://cdn.sofifa.org/players/4/19/211256.png,Argentina,https://cdn.sofifa.org/flags/52.png,82,84,LB,2018 ~ 2022,€22M,€22M,2073
+5,211110,P. Dybala,24,https://cdn.sofifa.org/players/4/19/211110.png,Argentina,https://cdn.sofifa.org/flags/52.png,89,94,RM,2015 ~ 2022,€89M,€89M,2092
+6,226226,G. Lo Celso,22,https://cdn.sofifa.org/players/4/19/226226.png,Argentina,https://cdn.sofifa.org/flags/52.png,82,88,RCM,2019 ~ 2023,€30M,€30M,2147
+7,207439,L. Paredes,24,https://cdn.sofifa.org/players/4/19/207439.png,Argentina,https://cdn.sofifa.org/flags/52.png,80,85,LCM,2019 ~ 2023,€19.5M,€19.5M,2124
+8,193061,R. Pereyra,27,https://cdn.sofifa.org/players/4/19/193061.png,Argentina,https://cdn.sofifa.org/flags/52.png,80,80,LM,2016 ~ 2021,€15.5M,€15.5M,2053
+9,158023,L. Messi,31,https://cdn.sofifa.org/players/4/19/158023.png,Argentina,https://cdn.sofifa.org/flags/52.png,94,94,CF,2004 ~ 2021,€110.5M,€110.5M,2217
+10,231478,L. Martínez,20,https://cdn.sofifa.org/players/4/19/231478.png,Argentina,https://cdn.sofifa.org/flags/52.png,80,88,ST,2018 ~ 2023,€22.5M,€22.5M,1915
+11,224334,M. Acuña,26,https://cdn.sofifa.org/players/4/19/224334.png,Argentina,https://cdn.sofifa.org/flags/52.png,81,81,SUB,2017 ~ 2023,€19M,€19M,2281
+12,215061,D. Benedetto,28,https://cdn.sofifa.org/players/4/19/215061.png,Argentina,https://cdn.sofifa.org/flags/52.png,80,80,SUB,2016 ~ 2021,€15.5M,€15.5M,1970
+13,212616,R. De Paul,24,https://cdn.sofifa.org/players/4/19/212616.png,Argentina,https://cdn.sofifa.org/flags/52.png,77,82,SUB,2016 ~ 2023,€12M,€12M,1914
+14,214997,A. Correa,23,https://cdn.sofifa.org/players/4/19/214997.png,Argentina,https://cdn.sofifa.org/flags/52.png,81,87,SUB,2014 ~ 2024,€24.5M,€24.5M,2045
+15,226377,G. Martínez,25,https://cdn.sofifa.org/players/4/19/226377.png,Argentina,https://cdn.sofifa.org/flags/52.png,78,81,SUB,2019 ~ 2020,€13M,€13M,1951
+16,225659,G. Rodríguez,23,https://cdn.sofifa.org/players/4/19/225659.png,Argentina,https://cdn.sofifa.org/flags/52.png,77,80,SUB,2017 ~ 2023,€9.5M,€9.5M,1822
+17,214584,F. Armani,31,https://cdn.sofifa.org/players/4/19/214584.png,Argentina,https://cdn.sofifa.org/flags/52.png,80,80,SUB,2018 ~ 2022,€9M,€9M,1231
+18,188042,M. Suárez,30,https://cdn.sofifa.org/players/4/19/188042.png,Argentina,https://cdn.sofifa.org/flags/52.png,77,77,RES,2019 ~ 2022,€8.5M,€8.5M,1900
+19,237221,J. Foyth,20,https://cdn.sofifa.org/players/4/19/237221.png,Argentina,https://cdn.sofifa.org/flags/52.png,74,85,RES,2017 ~ 2022,€8.5M,€8.5M,1772
+20,235926,M. Zaracho,20,https://cdn.sofifa.org/players/4/19/235926.png,Argentina,https://cdn.sofifa.org/flags/52.png,78,87,RES,2016 ~ 2021,€16M,€16M,1981
+21,224065,D. Blanco,23,https://cdn.sofifa.org/players/4/19/224065.png,Argentina,https://cdn.sofifa.org/flags/52.png,73,79,RES,"un 30, 2019",€5.5M,€5.5M,1959
+22,214979,J. Musso,24,https://cdn.sofifa.org/players/4/19/214979.png,Argentina,https://cdn.sofifa.org/flags/52.png,76,82,RES,2018 ~ 2023,€7.5M,€7.5M,1153
+23,196885,C. Lampe,31,https://cdn.sofifa.org/players/4/19/196885.png,Bolivia,https://cdn.sofifa.org/flags/53.png,69,69,GK,"GK (1)
+Free",€0,€0,1051
+24,216751,D. Bejarano,26,https://cdn.sofifa.org/players/4/19/216751.png,Bolivia,https://cdn.sofifa.org/flags/53.png,65,65,RB,"RB (8)
+Free",€0,€0,1536
+25,247884,A. Jusino,25,https://cdn.sofifa.org/players/4/19/247884.png,Bolivia,https://cdn.sofifa.org/flags/53.png,63,66,RCB,"B (22)
+Free",€0,€0,1279
+26,246065,L. Haquin,20,https://cdn.sofifa.org/players/4/19/246065.png,Bolivia,https://cdn.sofifa.org/flags/53.png,67,73,LCB,2019 ~ 2019,€900K,€900K,1479
+27,196930,M. Bejarano,30,https://cdn.sofifa.org/players/4/19/196930.png,Bolivia,https://cdn.sofifa.org/flags/53.png,68,68,LB,"B (17)
+Free",€0,€0,1612
+28,241131,L. Justiniano,25,https://cdn.sofifa.org/players/4/19/241131.png,Bolivia,https://cdn.sofifa.org/flags/53.png,65,68,CDM,"DM (7)
+Free",€0,€0,1558
+29,211338,A. Chumacero,27,https://cdn.sofifa.org/players/4/19/211338.png,Bolivia,https://cdn.sofifa.org/flags/53.png,74,74,RM,2018 ~ 2022,€6M,€6M,2028
+30,225708,R. Castro,28,https://cdn.sofifa.org/players/4/19/225708.png,Bolivia,https://cdn.sofifa.org/flags/53.png,64,64,RCM,"M (14)
+Free",€0,€0,1572
+31,199830,S. Galindo,26,https://cdn.sofifa.org/players/4/19/199830.png,Bolivia,https://cdn.sofifa.org/flags/53.png,65,66,LCM,"M (10)
+Free",€0,€0,1696
+32,231575,L. Vaca,22,https://cdn.sofifa.org/players/4/19/231575.png,Bolivia,https://cdn.sofifa.org/flags/53.png,64,73,LM,"M (19)
+Free",€0,€0,1502
+33,196910,G. Álvarez,26,https://cdn.sofifa.org/players/4/19/196910.png,Bolivia,https://cdn.sofifa.org/flags/53.png,64,65,ST,"T (18)
+Free",€0,€0,1521
+34,246067,H. Vaca,20,https://cdn.sofifa.org/players/4/19/246067.png,Bolivia,https://cdn.sofifa.org/flags/53.png,69,77,SUB,"B (13)
+Free",€0,€0,1748
+35,247885,R. Vaca,19,https://cdn.sofifa.org/players/4/19/247885.png,Bolivia,https://cdn.sofifa.org/flags/53.png,67,82,SUB,"B (20)
+Free",€0,€0,1588
+36,246189,C. Arano,23,https://cdn.sofifa.org/players/4/19/246189.png,Bolivia,https://cdn.sofifa.org/flags/53.png,62,68,SUB,"B (21)
+Free",€0,€0,1608
+37,247886,J. Vargas,22,https://cdn.sofifa.org/players/4/19/247886.png,Bolivia,https://cdn.sofifa.org/flags/53.png,62,68,SUB,"B (15)
+Free",€0,€0,1560
+38,231301,E. Saavedra,22,https://cdn.sofifa.org/players/4/19/231301.png,Bolivia,https://cdn.sofifa.org/flags/53.png,63,72,SUB,"UB (6)
+Free",€0,€0,1507
+39,248052,R. Fernández,18,https://cdn.sofifa.org/players/4/19/248052.png,Bolivia,https://cdn.sofifa.org/flags/53.png,60,76,SUB,"B (16)
+Free",€0,€0,1428
+40,247882,R. Cordano,19,https://cdn.sofifa.org/players/4/19/247882.png,Bolivia,https://cdn.sofifa.org/flags/53.png,68,76,SUB,"B (12)
+Free",€0,€0,943
+41,247883,S. Torres,28,https://cdn.sofifa.org/players/4/19/247883.png,Bolivia,https://cdn.sofifa.org/flags/53.png,64,64,RES,"S (11)
+Free",€0,€0,1516
+42,220545,R. Ramallo,27,https://cdn.sofifa.org/players/4/19/220545.png,Bolivia,https://cdn.sofifa.org/flags/53.png,65,65,RES,"ES (9)
+Free",€0,€0,1536
+43,241132,J. Candía,22,https://cdn.sofifa.org/players/4/19/241132.png,Bolivia,https://cdn.sofifa.org/flags/53.png,64,74,RES,"ES (2)
+Free",€0,€0,1331
+44,181375,M. Martins,31,https://cdn.sofifa.org/players/4/19/181375.png,Bolivia,https://cdn.sofifa.org/flags/53.png,72,72,RES,"ES (5)
+Free",€0,€0,1777
+45,236241,G. Viscarra,25,https://cdn.sofifa.org/players/4/19/236241.png,Bolivia,https://cdn.sofifa.org/flags/53.png,66,71,RES,"S (23)
+Free",€0,€0,921
+46,230168,Raphaelito Anjos,30,https://cdn.sofifa.org/players/4/19/230168.png,Brazil,https://cdn.sofifa.org/flags/54.png,82,82,GK,2018 ~ 2021,€14M,€14M,1191
+47,230201,Maikel Catarino,34,https://cdn.sofifa.org/players/4/19/230201.png,Brazil,https://cdn.sofifa.org/flags/54.png,79,79,RB,2018 ~ 2021,€3.6M,€3.6M,1953
+48,230225,Juiano Mestres,34,https://cdn.sofifa.org/players/4/19/230225.png,Brazil,https://cdn.sofifa.org/flags/54.png,82,82,RCB,2018 ~ 2021,€6.5M,€6.5M,2003
+49,230375,Josué Chiamulera,26,https://cdn.sofifa.org/players/4/19/230375.png,Brazil,https://cdn.sofifa.org/flags/54.png,83,83,LCB,2018 ~ 2021,€22.5M,€22.5M,1894
+50,230347,Welington Dano,30,https://cdn.sofifa.org/players/4/19/230347.png,Brazil,https://cdn.sofifa.org/flags/54.png,80,80,LB,2018 ~ 2021,€10.5M,€10.5M,2068
+51,230234,Everton Andrão,34,https://cdn.sofifa.org/players/4/19/230234.png,Brazil,https://cdn.sofifa.org/flags/54.png,80,80,CDM,2018 ~ 2021,€4.5M,€4.5M,2050
+52,230258,Rosberto Dourado,30,https://cdn.sofifa.org/players/4/19/230258.png,Brazil,https://cdn.sofifa.org/flags/54.png,82,82,RCM,2018 ~ 2021,€16.5M,€16.5M,2061
+53,230251,Melvin Parrela,30,https://cdn.sofifa.org/players/4/19/230251.png,Brazil,https://cdn.sofifa.org/flags/54.png,79,79,LCM,2018 ~ 2021,€9.5M,€9.5M,2099
+54,230481,Ronaldo Cabrais,26,https://cdn.sofifa.org/players/4/19/230481.png,Brazil,https://cdn.sofifa.org/flags/54.png,83,83,RW,2018 ~ 2021,€28M,€28M,2095
+55,230294,Louri Beretta,26,https://cdn.sofifa.org/players/4/19/230294.png,Brazil,https://cdn.sofifa.org/flags/54.png,83,83,ST,2018 ~ 2021,€28.5M,€28.5M,1921
+56,190871,Neymar Jr,26,https://cdn.sofifa.org/players/4/19/190871.png,Brazil,https://cdn.sofifa.org/flags/54.png,92,92,LW,2017 ~ 2022,€108M,€108M,2150
+57,230498,Luimo Boas Santos,30,https://cdn.sofifa.org/players/4/19/230498.png,Brazil,https://cdn.sofifa.org/flags/54.png,79,79,SUB,2018 ~ 2021,€12M,€12M,1895
+58,230271,Laure Santeiro,30,https://cdn.sofifa.org/players/4/19/230271.png,Brazil,https://cdn.sofifa.org/flags/54.png,81,81,SUB,2018 ~ 2021,€17M,€17M,1853
+59,230269,Claudio Coíntra,34,https://cdn.sofifa.org/players/4/19/230269.png,Brazil,https://cdn.sofifa.org/flags/54.png,78,78,SUB,2018 ~ 2021,€5M,€5M,1903
+60,230431,Sidney Pessinho,26,https://cdn.sofifa.org/players/4/19/230431.png,Brazil,https://cdn.sofifa.org/flags/54.png,78,78,SUB,2018 ~ 2021,€9M,€9M,2012
+61,230212,Antônio Chiamuloira,30,https://cdn.sofifa.org/players/4/19/230212.png,Brazil,https://cdn.sofifa.org/flags/54.png,79,79,SUB,2018 ~ 2021,€9.5M,€9.5M,1813
+62,230183,Gazzolisco,30,https://cdn.sofifa.org/players/4/19/230183.png,Brazil,https://cdn.sofifa.org/flags/54.png,77,77,SUB,2018 ~ 2021,€6.5M,€6.5M,2123
+63,230312,Gabri Prestão,26,https://cdn.sofifa.org/players/4/19/230312.png,Brazil,https://cdn.sofifa.org/flags/54.png,79,79,SUB,2018 ~ 2021,€9M,€9M,1153
+64,230360,Everticinho,30,https://cdn.sofifa.org/players/4/19/230360.png,Brazil,https://cdn.sofifa.org/flags/54.png,78,78,RES,2018 ~ 2021,€7.5M,€7.5M,2075
+65,230274,Dani Rochelinhas,26,https://cdn.sofifa.org/players/4/19/230274.png,Brazil,https://cdn.sofifa.org/flags/54.png,75,75,RES,2018 ~ 2021,€7M,€7M,1815
+66,230463,Simão Acunha,30,https://cdn.sofifa.org/players/4/19/230463.png,Brazil,https://cdn.sofifa.org/flags/54.png,77,77,RES,2018 ~ 2021,€8.5M,€8.5M,1903
+67,230475,Adilson Edrada,26,https://cdn.sofifa.org/players/4/19/230475.png,Brazil,https://cdn.sofifa.org/flags/54.png,75,75,RES,2018 ~ 2021,€7M,€7M,1838
+68,230323,Kaíquão Castro,34,https://cdn.sofifa.org/players/4/19/230323.png,Brazil,https://cdn.sofifa.org/flags/54.png,75,75,RES,2018 ~ 2021,€2.7M,€2.7M,1113
+69,223249,G. Arias,30,https://cdn.sofifa.org/players/4/19/223249.png,Chile,https://cdn.sofifa.org/flags/55.png,77,77,GK,2018 ~ 2021,€5.5M,€5.5M,1152
+70,187800,M. Isla,30,https://cdn.sofifa.org/players/4/19/187800.png,Chile,https://cdn.sofifa.org/flags/55.png,75,75,RB,2017 ~ 2020,€4.8M,€4.8M,2020
+71,193532,G. Medel,30,https://cdn.sofifa.org/players/4/19/193532.png,Chile,https://cdn.sofifa.org/flags/55.png,79,79,RCB,2017 ~ 2020,€9.5M,€9.5M,1966
+72,219145,G. Maripán,24,https://cdn.sofifa.org/players/4/19/219145.png,Chile,https://cdn.sofifa.org/flags/55.png,77,81,LCB,2017 ~ 2021,€10M,€10M,1482
+73,209744,E. Mena,29,https://cdn.sofifa.org/players/4/19/209744.png,Chile,https://cdn.sofifa.org/flags/55.png,76,76,LB,2018 ~ 2022,€6M,€6M,1937
+74,199827,P. Hernández,31,https://cdn.sofifa.org/players/4/19/199827.png,Chile,https://cdn.sofifa.org/flags/55.png,77,77,RM,2018 ~ 2022,€7.5M,€7.5M,2007
+75,213629,E. Pulgar,24,https://cdn.sofifa.org/players/4/19/213629.png,Chile,https://cdn.sofifa.org/flags/55.png,77,82,RCM,2015 ~ 2022,€10M,€10M,2034
+76,181872,A. Vidal,31,https://cdn.sofifa.org/players/4/19/181872.png,Chile,https://cdn.sofifa.org/flags/55.png,85,85,CM,2018 ~ 2021,€33M,€33M,2255
+77,199042,C. Aránguiz,29,https://cdn.sofifa.org/players/4/19/199042.png,Chile,https://cdn.sofifa.org/flags/55.png,82,82,LCM,2015 ~ 2020,€21.5M,€21.5M,2152
+78,213597,D. Valdés,24,https://cdn.sofifa.org/players/4/19/213597.png,Chile,https://cdn.sofifa.org/flags/55.png,75,79,LM,2019 ~ 2019,€8.5M,€8.5M,1927
+79,212878,N. Castillo,25,https://cdn.sofifa.org/players/4/19/212878.png,Chile,https://cdn.sofifa.org/flags/55.png,76,79,ST,2019 ~ 2022,€10M,€10M,1897
+80,213620,F. Mora,24,https://cdn.sofifa.org/players/4/19/213620.png,Chile,https://cdn.sofifa.org/flags/55.png,74,78,SUB,2018 ~ 2019,€7.5M,€7.5M,1732
+81,204709,D. Rubio,25,https://cdn.sofifa.org/players/4/19/204709.png,Chile,https://cdn.sofifa.org/flags/55.png,69,72,SUB,2019 ~ 2022,€1.3M,€1.3M,1752
+82,214408,I. Lichnovsky,24,https://cdn.sofifa.org/players/4/19/214408.png,Chile,https://cdn.sofifa.org/flags/55.png,73,79,SUB,2018 ~ 2019,€4.7M,€4.7M,1698
+83,214838,O. Opazo,27,https://cdn.sofifa.org/players/4/19/214838.png,Chile,https://cdn.sofifa.org/flags/55.png,73,73,SUB,2017 ~ 2020,€3.3M,€3.3M,1991
+84,214436,P. Díaz,23,https://cdn.sofifa.org/players/4/19/214436.png,Chile,https://cdn.sofifa.org/flags/55.png,71,77,SUB,2018 ~ 2021,€2.8M,€2.8M,1776
+85,219087,S. Vegas,21,https://cdn.sofifa.org/players/4/19/219087.png,Chile,https://cdn.sofifa.org/flags/55.png,70,78,SUB,2016 ~ 2023,€2.2M,€2.2M,1766
+86,215086,B. Cortés,23,https://cdn.sofifa.org/players/4/19/215086.png,Chile,https://cdn.sofifa.org/flags/55.png,72,79,SUB,2018 ~ 2022,€3.2M,€3.2M,1217
+87,229469,J. Meneses,25,https://cdn.sofifa.org/players/4/19/229469.png,Chile,https://cdn.sofifa.org/flags/55.png,70,71,RES,2018 ~ 2019,€2.1M,€2.1M,1742
+88,214294,E. Pavez,28,https://cdn.sofifa.org/players/4/19/214294.png,Chile,https://cdn.sofifa.org/flags/55.png,73,73,RES,2018 ~ 2023,€4M,€4M,1971
+89,194795,G. Jara,32,https://cdn.sofifa.org/players/4/19/194795.png,Chile,https://cdn.sofifa.org/flags/55.png,73,73,RES,2019 ~ 2020,€2.3M,€2.3M,1782
+90,184941,A. Sánchez,29,https://cdn.sofifa.org/players/4/19/184941.png,Chile,https://cdn.sofifa.org/flags/55.png,83,83,RES,2018 ~ 2022,€25.5M,€25.5M,2144
+91,213413,L. Vigouroux,24,https://cdn.sofifa.org/players/4/19/213413.png,Chile,https://cdn.sofifa.org/flags/55.png,64,65,RES,2016 ~ 2019,€375K,€375K,1070
+92,212067,C. Vargas,29,https://cdn.sofifa.org/players/4/19/212067.png,Colombia,https://cdn.sofifa.org/flags/56.png,77,78,GK,2019 ~ 2022,€7M,€7M,1268
+93,218981,H. Palacios,25,https://cdn.sofifa.org/players/4/19/218981.png,Colombia,https://cdn.sofifa.org/flags/56.png,73,76,RB,2018 ~ 2023,€4.1M,€4.1M,1827
+94,220523,Y. Mina,23,https://cdn.sofifa.org/players/4/19/220523.png,Colombia,https://cdn.sofifa.org/flags/56.png,78,83,RCB,2018 ~ 2023,€12M,€12M,1742
+95,220793,D. Sánchez,22,https://cdn.sofifa.org/players/4/19/220793.png,Colombia,https://cdn.sofifa.org/flags/56.png,83,87,LCB,2017 ~ 2024,€28.5M,€28.5M,1805
+96,220837,D. Machado,24,https://cdn.sofifa.org/players/4/19/220837.png,Colombia,https://cdn.sofifa.org/flags/56.png,71,75,LB,"un 30, 2019",€2.6M,€2.6M,1861
+97,213991,J. Lerma,23,https://cdn.sofifa.org/players/4/19/213991.png,Colombia,https://cdn.sofifa.org/flags/56.png,79,83,RCM,2018 ~ 2023,€14M,€14M,2091
+98,214394,W. Barrios,24,https://cdn.sofifa.org/players/4/19/214394.png,Colombia,https://cdn.sofifa.org/flags/56.png,78,83,LCM,"CM (5)
+Free",€0,€0,1854
+99,198710,J. Rodríguez,26,https://cdn.sofifa.org/players/4/19/198710.png,Colombia,https://cdn.sofifa.org/flags/56.png,87,88,CAM,"un 30, 2019",€59M,€59M,2166
+100,233959,S. Villa,22,https://cdn.sofifa.org/players/4/19/233959.png,Colombia,https://cdn.sofifa.org/flags/56.png,73,82,RW,2018 ~ 2023,€6M,€6M,1722
+101,167397,Falcao,32,https://cdn.sofifa.org/players/4/19/167397.png,Colombia,https://cdn.sofifa.org/flags/56.png,84,84,ST,2013 ~ 2020,€25M,€25M,2020
+102,199110,L. Muriel,27,https://cdn.sofifa.org/players/4/19/199110.png,Colombia,https://cdn.sofifa.org/flags/56.png,80,80,LW,"un 30, 2019",€16M,€16M,1906
+103,215333,D. Zapata,27,https://cdn.sofifa.org/players/4/19/215333.png,Colombia,https://cdn.sofifa.org/flags/56.png,82,82,SUB,"un 30, 2020",€23.5M,€23.5M,1815
+104,221714,A. Morelos,22,https://cdn.sofifa.org/players/4/19/221714.png,Colombia,https://cdn.sofifa.org/flags/56.png,75,85,SUB,2017 ~ 2023,€11M,€11M,1836
+105,214047,M. Uribe,27,https://cdn.sofifa.org/players/4/19/214047.png,Colombia,https://cdn.sofifa.org/flags/56.png,76,76,SUB,2017 ~ 2019,€8M,€8M,2055
+106,241084,L. Díaz,21,https://cdn.sofifa.org/players/4/19/241084.png,Colombia,https://cdn.sofifa.org/flags/56.png,74,85,SUB,2017 ~ 2021,€9.5M,€9.5M,1785
+107,201377,J. Murillo,26,https://cdn.sofifa.org/players/4/19/201377.png,Colombia,https://cdn.sofifa.org/flags/56.png,80,83,SUB,"un 30, 2019",€15.5M,€15.5M,1855
+108,227153,C. Borja,25,https://cdn.sofifa.org/players/4/19/227153.png,Colombia,https://cdn.sofifa.org/flags/56.png,75,78,SUB,2019 ~ 2024,€7M,€7M,1864
+109,214462,I. Arboleda,22,https://cdn.sofifa.org/players/4/19/214462.png,Colombia,https://cdn.sofifa.org/flags/56.png,74,81,SUB,2015 ~ 2020,€6M,€6M,1231
+110,214169,W. Tesillo,28,https://cdn.sofifa.org/players/4/19/214169.png,Colombia,https://cdn.sofifa.org/flags/56.png,74,74,RES,2018 ~ 2023,€4.6M,€4.6M,1541
+111,192342,E. Cardona,25,https://cdn.sofifa.org/players/4/19/192342.png,Colombia,https://cdn.sofifa.org/flags/56.png,76,77,RES,"ec 31, 2020",€9M,€9M,1962
+112,207664,C. Bacca,31,https://cdn.sofifa.org/players/4/19/207664.png,Colombia,https://cdn.sofifa.org/flags/56.png,80,80,RES,2018 ~ 2022,€13.5M,€13.5M,1870
+113,198581,O. Murillo,30,https://cdn.sofifa.org/players/4/19/198581.png,Colombia,https://cdn.sofifa.org/flags/56.png,75,75,RES,2016 ~ 2022,€4.9M,€4.9M,1643
+114,229541,A. Montero,23,https://cdn.sofifa.org/players/4/19/229541.png,Colombia,https://cdn.sofifa.org/flags/56.png,72,79,RES,2018 ~ 2023,€3.2M,€3.2M,1175
+115,199103,A. Domínguez,31,https://cdn.sofifa.org/players/4/19/199103.png,Ecuador,https://cdn.sofifa.org/flags/57.png,70,70,GK,2018 ~ 2021,€1.1M,€1.1M,1113
+116,207448,J. Paredes,30,https://cdn.sofifa.org/players/4/19/207448.png,Ecuador,https://cdn.sofifa.org/flags/57.png,70,70,RB,"RB (4)
+Free",€0,€0,1825
+117,204406,G. Achilier,33,https://cdn.sofifa.org/players/4/19/204406.png,Ecuador,https://cdn.sofifa.org/flags/57.png,71,71,RCB,2017 ~ 2022,€950K,€950K,1425
+118,246406,X. Arreaga,23,https://cdn.sofifa.org/players/4/19/246406.png,Ecuador,https://cdn.sofifa.org/flags/57.png,67,72,LCB,2019 ~ 2021,€875K,€875K,1377
+119,246403,B. Caicedo,26,https://cdn.sofifa.org/players/4/19/246403.png,Ecuador,https://cdn.sofifa.org/flags/57.png,72,73,LB,"B (13)
+Free",€0,€0,1823
+120,221860,C. Gruezo,23,https://cdn.sofifa.org/players/4/19/221860.png,Ecuador,https://cdn.sofifa.org/flags/57.png,72,79,CDM,2016 ~ 2019,€3.7M,€3.7M,1801
+121,167905,A. Valencia,32,https://cdn.sofifa.org/players/4/19/167905.png,Ecuador,https://cdn.sofifa.org/flags/57.png,78,78,RM,2009 ~ 2019,€5.5M,€5.5M,2096
+122,236270,J. Orejuela,25,https://cdn.sofifa.org/players/4/19/236270.png,Ecuador,https://cdn.sofifa.org/flags/57.png,69,73,RCM,"M (18)
+Free",€0,€0,1780
+123,246057,S. Méndez,21,https://cdn.sofifa.org/players/4/19/246057.png,Ecuador,https://cdn.sofifa.org/flags/57.png,65,74,LCM,2019 ~ 2021,€725K,€725K,1763
+124,204738,R. Ibarra,27,https://cdn.sofifa.org/players/4/19/204738.png,Ecuador,https://cdn.sofifa.org/flags/57.png,75,75,LM,2016 ~ 2019,€7M,€7M,1938
+125,241498,R. Ibarra,23,https://cdn.sofifa.org/players/4/19/241498.png,Ecuador,https://cdn.sofifa.org/flags/57.png,69,73,ST,2018 ~ 2021,€1.4M,€1.4M,1760
+126,220295,E. Valencia,28,https://cdn.sofifa.org/players/4/19/220295.png,Ecuador,https://cdn.sofifa.org/flags/57.png,76,76,SUB,2017 ~ 2019,€8M,€8M,1973
+127,223053,A. Mena,30,https://cdn.sofifa.org/players/4/19/223053.png,Ecuador,https://cdn.sofifa.org/flags/57.png,75,75,SUB,2019 ~ 2023,€6.5M,€6.5M,1877
+128,241412,A. Preciado,23,https://cdn.sofifa.org/players/4/19/241412.png,Ecuador,https://cdn.sofifa.org/flags/57.png,71,75,SUB,2018 ~ 2019,€3.1M,€3.1M,1806
+129,241406,J. Intriago,22,https://cdn.sofifa.org/players/4/19/241406.png,Ecuador,https://cdn.sofifa.org/flags/57.png,66,75,SUB,"B (15)
+Free",€0,€0,1772
+130,246055,A. Preciado,20,https://cdn.sofifa.org/players/4/19/246055.png,Ecuador,https://cdn.sofifa.org/flags/57.png,65,75,SUB,"B (19)
+Free",€0,€0,1542
+131,205207,C. Ramírez,23,https://cdn.sofifa.org/players/4/19/205207.png,Ecuador,https://cdn.sofifa.org/flags/57.png,72,77,SUB,"UB (2)
+Free",€0,€0,1816
+132,189024,M. Banguera,32,https://cdn.sofifa.org/players/4/19/189024.png,Ecuador,https://cdn.sofifa.org/flags/57.png,73,73,SUB,"UB (1)
+Free",€0,€0,1016
+133,223052,J. Narváez,27,https://cdn.sofifa.org/players/4/19/223052.png,Ecuador,https://cdn.sofifa.org/flags/57.png,65,65,RES,"ES (3)
+Free",€0,€0,1529
+134,225680,A. Mina,27,https://cdn.sofifa.org/players/4/19/225680.png,Ecuador,https://cdn.sofifa.org/flags/57.png,73,74,RES,2017 ~ 2019,€3.8M,€3.8M,1577
+135,187457,C. Noboa,33,https://cdn.sofifa.org/players/4/19/187457.png,Ecuador,https://cdn.sofifa.org/flags/57.png,79,79,RES,"ES (6)
+Free",€0,€0,2168
+136,207653,M. Bolaños,28,https://cdn.sofifa.org/players/4/19/207653.png,Ecuador,https://cdn.sofifa.org/flags/57.png,72,72,RES,2018 ~ 2019,€3.1M,€3.1M,1758
+137,225678,H. Piedra,25,https://cdn.sofifa.org/players/4/19/225678.png,Ecuador,https://cdn.sofifa.org/flags/57.png,67,71,RES,"S (12)
+Free",€0,€0,1112
+138,156092,J. Villar,41,https://cdn.sofifa.org/players/4/19/156092.png,Paraguay,https://cdn.sofifa.org/flags/58.png,77,77,GK,"GK (1)
+Free",€0,€0,1168
+139,225880,J. Moreira,28,https://cdn.sofifa.org/players/4/19/225880.png,Paraguay,https://cdn.sofifa.org/flags/58.png,72,72,RB,"ec 31, 2019",€2.5M,€2.5M,1821
+140,140222,P. Da Silva,38,https://cdn.sofifa.org/players/4/19/140222.png,Paraguay,https://cdn.sofifa.org/flags/58.png,72,72,RCB,"CB (4)
+Free",€0,€0,1703
+141,224909,P. Aguedar,30,https://cdn.sofifa.org/players/4/19/224909.png,Paraguay,https://cdn.sofifa.org/flags/58.png,74,74,LCB,"B (14)
+Free",€0,€0,1786
+142,220337,J. Alonso,25,https://cdn.sofifa.org/players/4/19/220337.png,Paraguay,https://cdn.sofifa.org/flags/58.png,75,80,LB,"un 30, 2020",€7.5M,€7.5M,1839
+143,182579,V. Cáceres,33,https://cdn.sofifa.org/players/4/19/182579.png,Paraguay,https://cdn.sofifa.org/flags/58.png,75,75,RDM,"M (15)
+Free",€0,€0,2012
+144,198129,C. Ortíz,29,https://cdn.sofifa.org/players/4/19/198129.png,Paraguay,https://cdn.sofifa.org/flags/58.png,77,77,LDM,2016 ~ 2019,€7M,€7M,1926
+145,225884,J. Riojas,30,https://cdn.sofifa.org/players/4/19/225884.png,Paraguay,https://cdn.sofifa.org/flags/58.png,71,71,RM,"M (20)
+Free",€0,€0,1776
+146,209102,M. Etxeberría,26,https://cdn.sofifa.org/players/4/19/209102.png,Paraguay,https://cdn.sofifa.org/flags/58.png,74,74,LM,"M (10)
+Free",€0,€0,2003
+147,174381,C. Riveros,35,https://cdn.sofifa.org/players/4/19/174381.png,Paraguay,https://cdn.sofifa.org/flags/58.png,76,76,CAM,"M (16)
+Free",€0,€0,2012
+148,219932,A. Sanabria,22,https://cdn.sofifa.org/players/4/19/219932.png,Paraguay,https://cdn.sofifa.org/flags/58.png,78,85,ST,"un 30, 2019",€15M,€15M,1881
+149,225900,J. Sambenito,26,https://cdn.sofifa.org/players/4/19/225900.png,Paraguay,https://cdn.sofifa.org/flags/58.png,71,72,SUB,"UB (9)
+Free",€0,€0,1651
+150,216385,R. Ortiz,28,https://cdn.sofifa.org/players/4/19/216385.png,Paraguay,https://cdn.sofifa.org/flags/58.png,74,74,SUB,"UB (6)
+Free",€0,€0,1973
+151,225887,D. Gonzo,22,https://cdn.sofifa.org/players/4/19/225887.png,Paraguay,https://cdn.sofifa.org/flags/58.png,72,78,SUB,"B (17)
+Free",€0,€0,1828
+152,226062,O. Ruisalvo,26,https://cdn.sofifa.org/players/4/19/226062.png,Paraguay,https://cdn.sofifa.org/flags/58.png,69,69,SUB,"UB (7)
+Free",€0,€0,1774
+153,225894,L. Cáceda,30,https://cdn.sofifa.org/players/4/19/225894.png,Paraguay,https://cdn.sofifa.org/flags/58.png,70,70,SUB,"UB (3)
+Free",€0,€0,1381
+154,225896,J. Alondro,30,https://cdn.sofifa.org/players/4/19/225896.png,Paraguay,https://cdn.sofifa.org/flags/58.png,65,65,SUB,"UB (5)
+Free",€0,€0,1538
+155,224900,A. Silbeira,22,https://cdn.sofifa.org/players/4/19/224900.png,Paraguay,https://cdn.sofifa.org/flags/58.png,72,72,SUB,"B (12)
+Free",€0,€0,1136
+156,209109,J. Silbeira,22,https://cdn.sofifa.org/players/4/19/209109.png,Paraguay,https://cdn.sofifa.org/flags/58.png,70,72,RES,"S (22)
+Free",€0,€0,1156
+157,209112,M. Rivoredo,26,https://cdn.sofifa.org/players/4/19/209112.png,Paraguay,https://cdn.sofifa.org/flags/58.png,67,67,RES,"ES (8)
+Free",€0,€0,1790
+158,225882,D. Mendiseca,22,https://cdn.sofifa.org/players/4/19/225882.png,Paraguay,https://cdn.sofifa.org/flags/58.png,67,67,RES,"S (19)
+Free",€0,€0,1608
+159,225883,S. Torrizales,26,https://cdn.sofifa.org/players/4/19/225883.png,Paraguay,https://cdn.sofifa.org/flags/58.png,65,66,RES,"S (23)
+Free",€0,€0,1701
+160,225893,J. Sambenito,26,https://cdn.sofifa.org/players/4/19/225893.png,Paraguay,https://cdn.sofifa.org/flags/58.png,65,65,RES,"S (21)
+Free",€0,€0,1575
+161,225701,P. Gallese,28,https://cdn.sofifa.org/players/4/19/225701.png,Peru,https://cdn.sofifa.org/flags/59.png,72,72,GK,"GK (1)
+Free",€0,€0,1197
+162,204539,L. Advíncula,28,https://cdn.sofifa.org/players/4/19/204539.png,Peru,https://cdn.sofifa.org/flags/59.png,74,74,RB,"un 30, 2019",€4.4M,€4.4M,2056
+163,226002,M. Araujo,23,https://cdn.sofifa.org/players/4/19/226002.png,Peru,https://cdn.sofifa.org/flags/59.png,69,74,RCB,2018 ~ 2019,€1.2M,€1.2M,1580
+164,211522,A. Callens,26,https://cdn.sofifa.org/players/4/19/211522.png,Peru,https://cdn.sofifa.org/flags/59.png,71,74,LCB,2017 ~ 2019,€2.5M,€2.5M,1582
+165,234178,L. Abram,22,https://cdn.sofifa.org/players/4/19/234178.png,Peru,https://cdn.sofifa.org/flags/59.png,72,81,LB,2018 ~ 2021,€4.2M,€4.2M,1636
+166,220673,R. Tapia,22,https://cdn.sofifa.org/players/4/19/220673.png,Peru,https://cdn.sofifa.org/flags/59.png,74,79,RDM,"un 30, 2019",€6.5M,€6.5M,1979
+167,204542,Y. Yotún,28,https://cdn.sofifa.org/players/4/19/204542.png,Peru,https://cdn.sofifa.org/flags/59.png,73,73,LDM,2019 ~ 2019,€4M,€4M,1984
+168,203299,A. Carrillo,27,https://cdn.sofifa.org/players/4/19/203299.png,Peru,https://cdn.sofifa.org/flags/59.png,78,78,RM,"un 30, 2019",€11M,€11M,1937
+169,210951,E. Flores,24,https://cdn.sofifa.org/players/4/19/210951.png,Peru,https://cdn.sofifa.org/flags/59.png,67,69,LM,2018 ~ 2019,€950K,€950K,1726
+170,214000,Y. Reyna,24,https://cdn.sofifa.org/players/4/19/214000.png,Peru,https://cdn.sofifa.org/flags/59.png,70,74,CAM,2017 ~ 2021,€2.4M,€2.4M,1820
+171,158133,J. Farfán,33,https://cdn.sofifa.org/players/4/19/158133.png,Peru,https://cdn.sofifa.org/flags/59.png,77,77,ST,2017 ~ 2020,€5.5M,€5.5M,1996
+172,231965,Beto da Silva,21,https://cdn.sofifa.org/players/4/19/231965.png,Peru,https://cdn.sofifa.org/flags/59.png,66,76,SUB,"ec 31, 2019",€1M,€1M,1582
+173,223637,A. Polo,23,https://cdn.sofifa.org/players/4/19/223637.png,Peru,https://cdn.sofifa.org/flags/59.png,69,74,SUB,2019 ~ 2019,€1.4M,€1.4M,1775
+174,228271,C. Gonzáles,25,https://cdn.sofifa.org/players/4/19/228271.png,Peru,https://cdn.sofifa.org/flags/59.png,66,67,SUB,"B (15)
+Free",€0,€0,1728
+175,196688,A. Corzo,29,https://cdn.sofifa.org/players/4/19/196688.png,Peru,https://cdn.sofifa.org/flags/59.png,69,69,SUB,"UB (3)
+Free",€0,€0,1677
+176,236260,A. Santamaría,26,https://cdn.sofifa.org/players/4/19/236260.png,Peru,https://cdn.sofifa.org/flags/59.png,68,71,SUB,2019 ~ 2019,€925K,€925K,1843
+177,246014,M. López,18,https://cdn.sofifa.org/players/4/19/246014.png,Peru,https://cdn.sofifa.org/flags/59.png,63,75,SUB,2019 ~ 2021,€525K,€525K,1654
+178,234054,C. Cáceda,26,https://cdn.sofifa.org/players/4/19/234054.png,Peru,https://cdn.sofifa.org/flags/59.png,69,69,SUB,"B (12)
+Free",€0,€0,973
+179,221664,W. Cartagena,23,https://cdn.sofifa.org/players/4/19/221664.png,Peru,https://cdn.sofifa.org/flags/59.png,67,73,RES,"S (16)
+Free",€0,€0,1813
+180,233571,A. Arias,22,https://cdn.sofifa.org/players/4/19/233571.png,Peru,https://cdn.sofifa.org/flags/59.png,64,72,RES,"ES (7)
+Free",€0,€0,1748
+181,236264,P. Aquino,23,https://cdn.sofifa.org/players/4/19/236264.png,Peru,https://cdn.sofifa.org/flags/59.png,73,78,RES,2018 ~ 2019,€4.5M,€4.5M,1883
+182,204538,R. Ruidíaz,27,https://cdn.sofifa.org/players/4/19/204538.png,Peru,https://cdn.sofifa.org/flags/59.png,76,76,RES,2018 ~ 2021,€8M,€8M,1879
+183,186655,J. Carvallo,32,https://cdn.sofifa.org/players/4/19/186655.png,Peru,https://cdn.sofifa.org/flags/59.png,68,68,RES,"S (21)
+Free",€0,€0,1094
+184,182494,F. Muslera,32,https://cdn.sofifa.org/players/4/19/182494.png,Uruguay,https://cdn.sofifa.org/flags/60.png,81,81,GK,2011 ~ 2021,€10M,€10M,1359
+185,182495,M. Cáceres,31,https://cdn.sofifa.org/players/4/19/182495.png,Uruguay,https://cdn.sofifa.org/flags/60.png,78,78,RB,"un 30, 2019",€7M,€7M,1940
+186,182493,D. Godín,32,https://cdn.sofifa.org/players/4/19/182493.png,Uruguay,https://cdn.sofifa.org/flags/60.png,90,90,RCB,2010 ~ 2019,€44M,€44M,1936
+187,216460,J. Giménez,23,https://cdn.sofifa.org/players/4/19/216460.png,Uruguay,https://cdn.sofifa.org/flags/60.png,84,88,LCB,2013 ~ 2023,€34M,€34M,1756
+188,213400,D. Laxalt,25,https://cdn.sofifa.org/players/4/19/213400.png,Uruguay,https://cdn.sofifa.org/flags/60.png,78,79,LB,2018 ~ 2022,€12.5M,€12.5M,1992
+189,230965,N. Nández,22,https://cdn.sofifa.org/players/4/19/230965.png,Uruguay,https://cdn.sofifa.org/flags/60.png,77,84,RM,2017 ~ 2020,€12.5M,€12.5M,2060
+190,227535,R. Bentancur,21,https://cdn.sofifa.org/players/4/19/227535.png,Uruguay,https://cdn.sofifa.org/flags/60.png,78,90,RCM,2017 ~ 2022,€18.5M,€18.5M,1934
+191,223959,L. Torreira,22,https://cdn.sofifa.org/players/4/19/223959.png,Uruguay,https://cdn.sofifa.org/flags/60.png,82,87,LCM,2018 ~ 2023,€25M,€25M,2122
+192,219985,M. Vecino,26,https://cdn.sofifa.org/players/4/19/219985.png,Uruguay,https://cdn.sofifa.org/flags/60.png,80,81,LM,2017 ~ 2022,€14.5M,€14.5M,2052
+193,176580,L. Suárez,31,https://cdn.sofifa.org/players/4/19/176580.png,Uruguay,https://cdn.sofifa.org/flags/60.png,91,91,RS,2014 ~ 2021,€80M,€80M,2349
+194,179813,E. Cavani,31,https://cdn.sofifa.org/players/4/19/179813.png,Uruguay,https://cdn.sofifa.org/flags/60.png,89,89,LS,2013 ~ 2020,€60M,€60M,2161
+195,186537,C. Stuani,31,https://cdn.sofifa.org/players/4/19/186537.png,Uruguay,https://cdn.sofifa.org/flags/60.png,81,81,SUB,2017 ~ 2022,€16M,€16M,2032
+196,239207,M. Gómez,21,https://cdn.sofifa.org/players/4/19/239207.png,Uruguay,https://cdn.sofifa.org/flags/60.png,80,85,SUB,2017 ~ 2022,€20.5M,€20.5M,1806
+197,229636,G. Pereiro,23,https://cdn.sofifa.org/players/4/19/229636.png,Uruguay,https://cdn.sofifa.org/flags/60.png,77,82,SUB,2015 ~ 2020,€12M,€12M,1933
+198,239053,F. Valverde,19,https://cdn.sofifa.org/players/4/19/239053.png,Uruguay,https://cdn.sofifa.org/flags/60.png,76,88,SUB,2016 ~ 2021,€13M,€13M,1840
+199,197655,S. Coates,27,https://cdn.sofifa.org/players/4/19/197655.png,Uruguay,https://cdn.sofifa.org/flags/60.png,82,83,SUB,2017 ~ 2022,€21M,€21M,1711
+200,246387,M. Suárez,22,https://cdn.sofifa.org/players/4/19/246387.png,Uruguay,https://cdn.sofifa.org/flags/60.png,72,79,SUB,2019 ~ 2023,€3.7M,€3.7M,1810
+201,198653,M. Silva,35,https://cdn.sofifa.org/players/4/19/198653.png,Uruguay,https://cdn.sofifa.org/flags/60.png,74,74,SUB,"B (23)
+Free",€0,€0,1252
+202,240976,M. Saracchi,20,https://cdn.sofifa.org/players/4/19/240976.png,Uruguay,https://cdn.sofifa.org/flags/60.png,75,82,RES,2018 ~ 2023,€8M,€8M,2015
+203,197225,N. Lodeiro,29,https://cdn.sofifa.org/players/4/19/197225.png,Uruguay,https://cdn.sofifa.org/flags/60.png,78,78,RES,2016 ~ 2021,€10M,€10M,2015
+204,223816,J. Rodríguez,24,https://cdn.sofifa.org/players/4/19/223816.png,Uruguay,https://cdn.sofifa.org/flags/60.png,75,79,RES,2019 ~ 2019,€9M,€9M,1904
+205,247802,G. González,23,https://cdn.sofifa.org/players/4/19/247802.png,Uruguay,https://cdn.sofifa.org/flags/60.png,71,78,RES,"S (13)
+Free",€0,€0,1726
+206,225647,M. Campaña,29,https://cdn.sofifa.org/players/4/19/225647.png,Uruguay,https://cdn.sofifa.org/flags/60.png,79,80,RES,2017 ~ 2021,€10M,€10M,1268
+207,228736,W. Faríñez,20,https://cdn.sofifa.org/players/4/19/228736.png,Venezuela,https://cdn.sofifa.org/flags/61.png,73,83,GK,2018 ~ 2020,€5M,€5M,1265
+208,182896,R. Rosales,29,https://cdn.sofifa.org/players/4/19/182896.png,Venezuela,https://cdn.sofifa.org/flags/61.png,74,74,RB,"un 30, 2019",€4.3M,€4.3M,1967
+209,233329,M. Villanueva,25,https://cdn.sofifa.org/players/4/19/233329.png,Venezuela,https://cdn.sofifa.org/flags/61.png,67,71,RCB,"un 30, 2019",€825K,€825K,1600
+210,237297,Y. Osorio,24,https://cdn.sofifa.org/players/4/19/237297.png,Venezuela,https://cdn.sofifa.org/flags/61.png,75,81,LCB,"un 30, 2019",€8M,€8M,1535
+211,240921,R. Hernández,20,https://cdn.sofifa.org/players/4/19/240921.png,Venezuela,https://cdn.sofifa.org/flags/61.png,62,74,LB,2017 ~ 2021,€475K,€475K,1545
+212,240982,J. Moreno,24,https://cdn.sofifa.org/players/4/19/240982.png,Venezuela,https://cdn.sofifa.org/flags/61.png,70,75,CDM,2018 ~ 2021,€2M,€2M,1856
+213,228738,J. Murillo,22,https://cdn.sofifa.org/players/4/19/228738.png,Venezuela,https://cdn.sofifa.org/flags/61.png,69,78,RM,2018 ~ 2022,€1.6M,€1.6M,1710
+214,191053,T. Rincón,30,https://cdn.sofifa.org/players/4/19/191053.png,Venezuela,https://cdn.sofifa.org/flags/61.png,77,77,RCM,2018 ~ 2022,€8M,€8M,2056
+215,234060,Y. Herrera,20,https://cdn.sofifa.org/players/4/19/234060.png,Venezuela,https://cdn.sofifa.org/flags/61.png,68,78,LCM,"un 30, 2019",€1.3M,€1.3M,1773
+216,210463,D. Machís,25,https://cdn.sofifa.org/players/4/19/210463.png,Venezuela,https://cdn.sofifa.org/flags/61.png,75,76,LM,"un 30, 2019",€8M,€8M,1909
+217,189250,S. Rondón,28,https://cdn.sofifa.org/players/4/19/189250.png,Venezuela,https://cdn.sofifa.org/flags/61.png,78,78,ST,"un 30, 2019",€10.5M,€10.5M,1797
+218,207877,J. Martínez,25,https://cdn.sofifa.org/players/4/19/207877.png,Venezuela,https://cdn.sofifa.org/flags/61.png,81,84,SUB,2017 ~ 2023,€22.5M,€22.5M,1936
+219,212618,F. Aristeguieta,26,https://cdn.sofifa.org/players/4/19/212618.png,Venezuela,https://cdn.sofifa.org/flags/61.png,73,74,SUB,2018 ~ 2023,€4.8M,€4.8M,1779
+220,239747,S. Córdova,20,https://cdn.sofifa.org/players/4/19/239747.png,Venezuela,https://cdn.sofifa.org/flags/61.png,69,78,SUB,2017 ~ 2022,€1.7M,€1.7M,1589
+221,207876,A. González,25,https://cdn.sofifa.org/players/4/19/207876.png,Venezuela,https://cdn.sofifa.org/flags/61.png,70,72,SUB,2018 ~ 2019,€1.8M,€1.8M,1980
+222,246015,L. Mago,23,https://cdn.sofifa.org/players/4/19/246015.png,Venezuela,https://cdn.sofifa.org/flags/61.png,67,70,SUB,2019 ~ 2021,€800K,€800K,1671
+223,234059,J. Chancellor,26,https://cdn.sofifa.org/players/4/19/234059.png,Venezuela,https://cdn.sofifa.org/flags/61.png,64,64,SUB,"UB (4)
+Free",€0,€0,1302
+224,193359,R. Romo,28,https://cdn.sofifa.org/players/4/19/193359.png,Venezuela,https://cdn.sofifa.org/flags/61.png,69,71,SUB,"B (22)
+Free",€0,€0,1105
+225,216468,J. Añor,24,https://cdn.sofifa.org/players/4/19/216468.png,Venezuela,https://cdn.sofifa.org/flags/61.png,73,76,RES,"un 30, 2019",€5M,€5M,1838
+226,228116,A. Figuera,28,https://cdn.sofifa.org/players/4/19/228116.png,Venezuela,https://cdn.sofifa.org/flags/61.png,69,69,RES,"ES (6)
+Free",€0,€0,1727
+227,172613,L. Seijas,32,https://cdn.sofifa.org/players/4/19/172613.png,Venezuela,https://cdn.sofifa.org/flags/61.png,71,71,RES,2018 ~ 2023,€1.8M,€1.8M,1942
+228,245149,J. Hurtado,18,https://cdn.sofifa.org/players/4/19/245149.png,Venezuela,https://cdn.sofifa.org/flags/61.png,69,85,RES,2018 ~ 2021,€2.2M,€2.2M,1677
+229,231596,J. Contreras,23,https://cdn.sofifa.org/players/4/19/231596.png,Venezuela,https://cdn.sofifa.org/flags/61.png,65,72,RES,2013 ~ 2019,€550K,€550K,941
